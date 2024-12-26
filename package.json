@@ -1,7 +1,7 @@
 {
   "name": "qr-code-comp",
   "private": false,
-  "homepage":"./",
+  "homepage":"https://ralphgraham1.github.io/QR-Scanner/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
